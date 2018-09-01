@@ -39,7 +39,7 @@ h1, h2 {
 
   li {
     display: block;
-    maring: 0 10 px;
+    margin: 0 10px;
   }
 
 
